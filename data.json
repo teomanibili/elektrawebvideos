@@ -701,13 +701,6 @@
     "videoGrup": "House Keeping",
     "videos": [
       {
-        "videoName": "Room Rack Ekranı Nasıl Kullanılır?",
-        "videoDescription": "Oda durumları temiz, kirli, confirme, kapalı  durumlarına nasıl alınır? ",
-        "youtubeVideoID": "hOUiLuVnlik",
-        "videoTime": "04:14",
-        "videoIntTime": 4.14
-      },
-      {
         "videoName": "Uyuşmazlık Raporu Nasıl Alınır ?",
         "videoDescription": "",
         "youtubeVideoID": "4zNZFDkDZDQ",
@@ -959,7 +952,7 @@
     "videoGrup": "Muhasebe",
     "videos": [
       {
-        "videoName": "Muhasebe Stok Satınalma Pos ve Demirbaş Genel Kullanım",
+        "videoName": "Muhasebe, Stok, Satınalma, Pos ve Demirbaş Genel Kullanım",
         "videoDescription": "Muhasebe, Stok, Satın Alma, Pos ve Demirbaş Menülerinin Genel Anlatımı",
         "youtubeVideoID": "ZfAdGDJAypk",
         "videoTime": "11:56",
@@ -1029,20 +1022,6 @@
         "videoIntTime": 0.5
       },
       {
-        "videoName": "İrsaliye ve İrsaliyeden Faturalama",
-        "videoDescription": "İrsaliye Girişi ve Faturanın İrsaliyeden Ayarlanması Nasıl Yapılır ?",
-        "youtubeVideoID": "gNMK-EJGXrI",
-        "videoTime": "04:14",
-        "videoIntTime": 4.14
-      },
-      {
-        "videoName": "İrsaliyelerin Tek Faturada Birleştirilmesi",
-        "videoDescription": "Aynı Firmadan Gelen Birden Fazla İrsaliyenin Tek Fatura ile Girişi nasıl yapılır ?",
-        "youtubeVideoID": "96gb2oX5j_4",
-        "videoTime": "02:07",
-        "videoIntTime": 2.07
-      },
-      {
         "videoName": "Çek Senet Menüsü ve İşlemleri nasıl yapılır ?",
         "videoDescription": "",
         "youtubeVideoID": "r898EWNz4uY",
@@ -1050,25 +1029,25 @@
         "videoIntTime": 6.37
       },
       {
-        "videoName": "Çek ve Senet",
+        "videoName": "Müşteri çeklerinin işlemleri nasıl yapılır?",
         "videoDescription": "Müşteri çekinin portföye girişi, bankaya tahsile verilmesi ve bankada tahsilinin nasıl yapıldığının muhasebe kayıtları ve çıktıları nedir ve nasıl yapılır ?",
         "youtubeVideoID": "k64z0gi44y4",
         "videoTime": "08:02",
         "videoIntTime": 8.02
       },
       {
-        "videoName": "Karşılık Çek İşlemleri",
+        "videoName": "Kendimize ait çeklerimizin işlemleri nasıl yapılır?",
+        "videoDescription": "Satıcıya Çek ile Ödeme, Satıcının Çeki Tahsil Etmesi ve ilgili Muhasebe Kayıtları",
+        "youtubeVideoID": "AsBFWKjQjZM",
+        "videoTime": "07:40",
+        "videoIntTime": 7.4
+      },
+      {
+        "videoName": "Bir çekin karşılıksız çıkması durumunda yapılacak işlemler.",
         "videoDescription": "Bankadaki çekin karşılıksız çıkması, portföye geri alınarak adli takibe başlanması ile ilgili çek işlemleri ve muhasebe kayıt işlemleri nasıl yapılır ?",
         "youtubeVideoID": "BBb7OvY2WHg",
         "videoTime": "05:14",
         "videoIntTime": 5.14
-      },
-      {
-        "videoName": "Satıcıya Çek ile Ödeme, Satıcının Çeki Tahsil Etmesi ve ilgili Muhasebe Kayıtları",
-        "videoDescription": "",
-        "youtubeVideoID": "AsBFWKjQjZM",
-        "videoTime": "07:40",
-        "videoIntTime": 7.4
       }
     ]
   },
@@ -1076,7 +1055,7 @@
     "videoGrup": "Satın Alma",
     "videos": [
       {
-        "videoName": "Satın Alma",
+        "videoName": "Satın Alma Süreci Nasıl Yönetilir?",
         "videoDescription": "Depo talep girişinden başlayarak satınalma talebinin oluşturulması, depodan karşılanabilen kısmının karşılanıp geri kalan kısmının satınalma teklif onay ve sipariş süreçlerine girmesi",
         "youtubeVideoID": "4Bufg8idC7w",
         "videoTime": "09:06",
@@ -1102,32 +1081,46 @@
     "videoGrup": "Stok",
     "videos": [
       {
-        "videoName": "Stok Grup Tanımı",
-        "videoDescription": "",
-        "youtubeVideoID": "WTHph38VZ0o",
-        "videoTime": "01:26",
-        "videoIntTime": 1.26
-      },
-      {
-        "videoName": "Depo Tanımı",
-        "videoDescription": "",
-        "youtubeVideoID": "FKDbQ1q790g",
-        "videoTime": "01:25",
-        "videoIntTime": 1.25
-      },
-      {
-        "videoName": "Stok ve Envanter",
+        "videoName": "Stok Ana Tanımları Nasıl Yapılır?",
         "videoDescription": "Ana Tanımların Anlatımı",
         "youtubeVideoID": "3uVn06i2g6Y",
         "videoTime": "09:04",
         "videoIntTime": 9.04
       },
       {
-        "videoName": "Stok Fatura Girişi",
+        "videoName": "Stok Grubu Tanımlama",
+        "videoDescription": "",
+        "youtubeVideoID": "WTHph38VZ0o",
+        "videoTime": "01:26",
+        "videoIntTime": 1.26
+      },
+      {
+        "videoName": "Depo Tanımlama",
+        "videoDescription": "",
+        "youtubeVideoID": "FKDbQ1q790g",
+        "videoTime": "01:25",
+        "videoIntTime": 1.25
+      },
+      {
+        "videoName": "Stok Faturası Girişi Nasıl Yapılır?",
         "videoDescription": "",
         "youtubeVideoID": "FITwaxxaJNM",
         "videoTime": "06:05",
         "videoIntTime": 6.05
+      },
+      {
+        "videoName": "İrsaliye ve İrsaliyeden Faturalama İşlemleri",
+        "videoDescription": "İrsaliye Girişi ve Faturanın İrsaliyeden Ayarlanması Nasıl Yapılır ?",
+        "youtubeVideoID": "gNMK-EJGXrI",
+        "videoTime": "04:14",
+        "videoIntTime": 4.14
+      },
+      {
+        "videoName": "İrsaliyelerin Tek Faturada Birleştirilmesi İşlemi",
+        "videoDescription": "Aynı Firmadan Gelen Birden Fazla İrsaliyenin Tek Fatura ile Girişi nasıl yapılır ?",
+        "youtubeVideoID": "96gb2oX5j_4",
+        "videoTime": "02:07",
+        "videoIntTime": 2.07
       },
       {
         "videoName": "Çok şubeli otellerde, oteller arası stok transferi irsaliyeler ile nasıl yapılır ?",
@@ -1137,7 +1130,7 @@
         "videoIntTime": 2.16
       },
       {
-        "videoName": "Stok Sayım",
+        "videoName": "Stok Sayım İşlemleri Nasıl Yapılır?",
         "videoDescription": "",
         "youtubeVideoID": "AJROJR86xLU",
         "videoTime": "09:48",
